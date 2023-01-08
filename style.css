@@ -1,0 +1,8 @@
+/* change the color of icon when call it */
+.like {
+    color: red;
+}
+
+.dislike {
+    color: black;
+}
